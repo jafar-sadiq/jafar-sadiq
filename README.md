@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jafar-sadiq
-- 👀 I’m interested in Coding
 - 🌱 I’m currently working for HCL@Meta
+- ❤️ I love Coding
 - 📫 reach me at jafar223672@gmail.com
 
 <!---
