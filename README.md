@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jafar-sadiq
 - 🌱 I’m currently working for HCL@Meta
 - ❤️ I love Coding
-- 👨🏻‍💻 My youtube channel <yet to create one>
+- 👨🏻‍💻 My youtube channel <https://youtube.com/@codewithjafar8428?si=MNR2NqcJxBfG9SBy>
 - 📫 reach me at jafar223672@gmail.com
 
 <!---
